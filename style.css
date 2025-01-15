@@ -21,7 +21,7 @@ body {
 
 .stats-container {
     display: flex;
-    align-items: baseline;
+    align-items:normal;
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
 }

@@ -1,32 +1,35 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - _Name of App Here_
 
-Submitted by: **Your Name Here**
+Submitted by: William Wang
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [ ] The introduction section explains the background of the company and how many games remain unfunded.
+- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Created a button that sorts games by number of backers.
+- [ ] Changed all games button so that it is always sorted by pledges.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/594f62415ac3465d92d5186b39ac9e3c?sid=0b5cfe63-6aa3-454f-9e67-b711657b0ae7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+
+Video created with Loom
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +37,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some concepts I needed a refresher on but was able to remind myself of the concepts through the links in the PDF.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [William Wang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
